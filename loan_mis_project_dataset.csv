@@ -1,0 +1,201 @@
+loan_id,customer_id,application_date,approval_date,disbursement_date,loan_amount,loan_status,branch,state,product_type,channel
+1,1102,2024-01-01,2024-01-05,2024-01-09,253687,Approved,Chennai,Tamil Nadu,Home Loan,DSA
+2,1435,2024-01-02,2024-01-04,2024-01-08,123523,Disbursed,Mumbai,Maharashtra,Personal Loan,Online
+3,1860,2024-01-03,2024-01-04,2024-01-06,286175,Pending,Delhi,Maharashtra,Personal Loan,Direct
+4,1270,2024-01-04,2024-01-07,2024-01-10,144476,Approved,Mumbai,Delhi,Personal Loan,Direct
+5,1106,2024-01-05,2024-01-08,2024-01-12,283841,Pending,Delhi,Tamil Nadu,Home Loan,Online
+6,1071,2024-01-06,2024-01-07,2024-01-09,329163,Disbursed,Chennai,Maharashtra,Auto Loan,Direct
+7,1700,2024-01-07,2024-01-10,2024-01-11,395757,Approved,Bangalore,Tamil Nadu,Home Loan,Direct
+8,1020,2024-01-08,2024-01-11,2024-01-14,272866,Pending,Mumbai,Maharashtra,Personal Loan,DSA
+9,1614,2024-01-09,2024-01-10,2024-01-11,136672,Approved,Bangalore,Karnataka,Auto Loan,Online
+10,1121,2024-01-10,2024-01-14,2024-01-15,123847,Disbursed,Mumbai,Maharashtra,Auto Loan,Online
+11,1466,2024-01-11,2024-01-12,2024-01-14,394894,Pending,Delhi,Tamil Nadu,Home Loan,Online
+12,1214,2024-01-12,2024-01-16,2024-01-20,260706,Approved,Bangalore,Karnataka,Personal Loan,Online
+13,1330,2024-01-13,2024-01-16,2024-01-18,78251,Disbursed,Mumbai,Karnataka,Home Loan,DSA
+14,1458,2024-01-14,2024-01-17,2024-01-19,153481,Approved,Delhi,Karnataka,Auto Loan,DSA
+15,1087,2024-01-15,2024-01-18,2024-01-20,424710,Approved,Bangalore,Tamil Nadu,Home Loan,Direct
+16,1372,2024-01-16,2024-01-18,2024-01-20,75945,Rejected,Bangalore,Delhi,Home Loan,Direct
+17,1099,2024-01-17,2024-01-21,2024-01-24,402996,Rejected,Mumbai,Delhi,Personal Loan,Direct
+18,1871,2024-01-18,2024-01-20,2024-01-24,82217,Disbursed,Mumbai,Delhi,Personal Loan,Direct
+19,1663,2024-01-19,2024-01-21,2024-01-22,58308,Rejected,Mumbai,Tamil Nadu,Auto Loan,DSA
+20,1130,2024-01-20,2024-01-21,2024-01-22,318093,Disbursed,Delhi,Karnataka,Home Loan,Online
+21,1661,2024-01-21,2024-01-23,2024-01-27,233062,Rejected,Mumbai,Delhi,Home Loan,DSA
+22,1308,2024-01-22,2024-01-23,2024-01-24,444366,Approved,Bangalore,Tamil Nadu,Home Loan,Direct
+23,1769,2024-01-23,2024-01-24,2024-01-28,270552,Disbursed,Bangalore,Delhi,Auto Loan,DSA
+24,1343,2024-01-24,2024-01-26,2024-01-27,150235,Disbursed,Mumbai,Maharashtra,Auto Loan,Online
+25,1491,2024-01-25,2024-01-29,2024-01-31,124740,Approved,Mumbai,Delhi,Personal Loan,Online
+26,1413,2024-01-26,2024-01-30,2024-01-31,428496,Disbursed,Chennai,Delhi,Personal Loan,DSA
+27,1805,2024-01-27,2024-01-31,2024-02-04,378761,Disbursed,Bangalore,Karnataka,Personal Loan,DSA
+28,1385,2024-01-28,2024-02-01,2024-02-05,275913,Rejected,Delhi,Tamil Nadu,Home Loan,DSA
+29,1191,2024-01-29,2024-02-02,2024-02-06,329040,Disbursed,Chennai,Karnataka,Home Loan,Direct
+30,1955,2024-01-30,2024-02-01,2024-02-05,442942,Pending,Mumbai,Karnataka,Personal Loan,DSA
+31,1276,2024-01-31,2024-02-02,2024-02-06,227247,Approved,Mumbai,Karnataka,Home Loan,DSA
+32,1160,2024-02-01,2024-02-04,2024-02-07,188877,Rejected,Bangalore,Karnataka,Personal Loan,DSA
+33,1459,2024-02-02,2024-02-06,2024-02-09,55237,Rejected,Mumbai,Karnataka,Auto Loan,Online
+34,1313,2024-02-03,2024-02-05,2024-02-06,70056,Pending,Delhi,Delhi,Personal Loan,Online
+35,1021,2024-02-04,2024-02-07,2024-02-11,226615,Approved,Bangalore,Karnataka,Auto Loan,Direct
+36,1252,2024-02-05,2024-02-09,2024-02-10,237628,Approved,Mumbai,Karnataka,Home Loan,Direct
+37,1747,2024-02-06,2024-02-07,2024-02-11,164548,Rejected,Bangalore,Tamil Nadu,Personal Loan,Online
+38,1856,2024-02-07,2024-02-10,2024-02-14,423632,Disbursed,Mumbai,Maharashtra,Home Loan,Online
+39,1560,2024-02-08,2024-02-10,2024-02-13,184415,Rejected,Mumbai,Delhi,Auto Loan,Online
+40,1474,2024-02-09,2024-02-10,2024-02-13,456716,Approved,Mumbai,Delhi,Auto Loan,DSA
+41,1058,2024-02-10,2024-02-11,2024-02-13,496438,Pending,Delhi,Delhi,Auto Loan,DSA
+42,1510,2024-02-11,2024-02-12,2024-02-15,79375,Rejected,Delhi,Karnataka,Home Loan,Online
+43,1681,2024-02-12,2024-02-15,2024-02-17,190734,Approved,Bangalore,Karnataka,Home Loan,DSA
+44,1475,2024-02-13,2024-02-15,2024-02-17,66964,Rejected,Mumbai,Karnataka,Home Loan,DSA
+45,1699,2024-02-14,2024-02-15,2024-02-17,163429,Disbursed,Mumbai,Tamil Nadu,Home Loan,Direct
+46,1975,2024-02-15,2024-02-19,2024-02-21,302764,Rejected,Delhi,Maharashtra,Auto Loan,Online
+47,1782,2024-02-16,2024-02-17,2024-02-19,240710,Rejected,Mumbai,Karnataka,Auto Loan,Online
+48,1189,2024-02-17,2024-02-18,2024-02-19,266139,Approved,Delhi,Maharashtra,Personal Loan,DSA
+49,1957,2024-02-18,2024-02-21,2024-02-24,117215,Approved,Mumbai,Tamil Nadu,Personal Loan,Online
+50,1686,2024-02-19,2024-02-22,2024-02-24,381186,Approved,Bangalore,Delhi,Home Loan,Direct
+51,1957,2024-02-20,2024-02-22,2024-02-26,194356,Rejected,Mumbai,Karnataka,Auto Loan,Direct
+52,1562,2024-02-21,2024-02-25,2024-02-28,253861,Disbursed,Mumbai,Maharashtra,Auto Loan,Direct
+53,1875,2024-02-22,2024-02-25,2024-02-28,405612,Pending,Chennai,Maharashtra,Auto Loan,Online
+54,1566,2024-02-23,2024-02-24,2024-02-26,59435,Pending,Delhi,Karnataka,Personal Loan,Online
+55,1243,2024-02-24,2024-02-26,2024-02-27,497556,Approved,Mumbai,Delhi,Personal Loan,Online
+56,1831,2024-02-25,2024-02-26,2024-02-28,225150,Approved,Mumbai,Delhi,Auto Loan,Online
+57,1504,2024-02-26,2024-02-27,2024-02-28,390976,Rejected,Chennai,Delhi,Auto Loan,Online
+58,1130,2024-02-27,2024-03-01,2024-03-05,101293,Pending,Chennai,Tamil Nadu,Auto Loan,Direct
+59,1484,2024-02-28,2024-03-01,2024-03-04,128781,Approved,Delhi,Maharashtra,Personal Loan,DSA
+60,1818,2024-02-29,2024-03-04,2024-03-08,241475,Disbursed,Chennai,Maharashtra,Auto Loan,Direct
+61,1646,2024-03-01,2024-03-05,2024-03-06,210196,Disbursed,Bangalore,Maharashtra,Auto Loan,Online
+62,1020,2024-03-02,2024-03-05,2024-03-06,276507,Approved,Chennai,Tamil Nadu,Home Loan,Direct
+63,1840,2024-03-03,2024-03-06,2024-03-10,356063,Approved,Bangalore,Maharashtra,Home Loan,Online
+64,1166,2024-03-04,2024-03-06,2024-03-07,289833,Pending,Delhi,Tamil Nadu,Personal Loan,Online
+65,1273,2024-03-05,2024-03-09,2024-03-13,302377,Pending,Delhi,Delhi,Auto Loan,Direct
+66,1387,2024-03-06,2024-03-10,2024-03-13,216319,Rejected,Delhi,Karnataka,Auto Loan,Online
+67,1600,2024-03-07,2024-03-11,2024-03-15,171172,Pending,Delhi,Maharashtra,Home Loan,DSA
+68,1315,2024-03-08,2024-03-09,2024-03-12,406902,Disbursed,Delhi,Maharashtra,Personal Loan,Online
+69,1013,2024-03-09,2024-03-13,2024-03-17,368717,Disbursed,Bangalore,Delhi,Home Loan,DSA
+70,1241,2024-03-10,2024-03-11,2024-03-12,109101,Approved,Bangalore,Karnataka,Home Loan,DSA
+71,1776,2024-03-11,2024-03-13,2024-03-17,338790,Pending,Delhi,Tamil Nadu,Home Loan,Online
+72,1345,2024-03-12,2024-03-13,2024-03-14,416329,Rejected,Chennai,Karnataka,Home Loan,Direct
+73,1564,2024-03-13,2024-03-15,2024-03-19,73049,Disbursed,Mumbai,Delhi,Auto Loan,DSA
+74,1897,2024-03-14,2024-03-18,2024-03-22,260677,Disbursed,Delhi,Delhi,Auto Loan,Direct
+75,1339,2024-03-15,2024-03-19,2024-03-21,410260,Rejected,Chennai,Karnataka,Home Loan,DSA
+76,1091,2024-03-16,2024-03-18,2024-03-19,409523,Rejected,Mumbai,Tamil Nadu,Personal Loan,Online
+77,1366,2024-03-17,2024-03-20,2024-03-22,118385,Disbursed,Delhi,Tamil Nadu,Personal Loan,Online
+78,1955,2024-03-18,2024-03-20,2024-03-21,176131,Disbursed,Delhi,Maharashtra,Personal Loan,DSA
+79,1454,2024-03-19,2024-03-22,2024-03-24,483374,Rejected,Bangalore,Tamil Nadu,Personal Loan,Online
+80,1427,2024-03-20,2024-03-21,2024-03-24,246489,Disbursed,Mumbai,Karnataka,Home Loan,DSA
+81,1508,2024-03-21,2024-03-22,2024-03-26,73289,Approved,Mumbai,Delhi,Auto Loan,Online
+82,1775,2024-03-22,2024-03-23,2024-03-24,422370,Approved,Chennai,Maharashtra,Personal Loan,Direct
+83,1942,2024-03-23,2024-03-27,2024-03-28,412937,Rejected,Bangalore,Maharashtra,Home Loan,Online
+84,1034,2024-03-24,2024-03-25,2024-03-29,321967,Pending,Bangalore,Delhi,Personal Loan,Direct
+85,1205,2024-03-25,2024-03-28,2024-03-29,241232,Rejected,Bangalore,Tamil Nadu,Personal Loan,Online
+86,1080,2024-03-26,2024-03-27,2024-03-28,354119,Rejected,Bangalore,Delhi,Home Loan,Direct
+87,1931,2024-03-27,2024-03-29,2024-03-31,59540,Pending,Mumbai,Tamil Nadu,Auto Loan,Online
+88,1561,2024-03-28,2024-03-30,2024-03-31,66364,Pending,Mumbai,Delhi,Auto Loan,Direct
+89,1871,2024-03-29,2024-04-02,2024-04-05,447827,Pending,Delhi,Karnataka,Home Loan,DSA
+90,1387,2024-03-30,2024-04-01,2024-04-04,77663,Approved,Delhi,Tamil Nadu,Auto Loan,DSA
+91,1001,2024-03-31,2024-04-03,2024-04-07,101991,Disbursed,Bangalore,Karnataka,Home Loan,Direct
+92,1389,2024-04-01,2024-04-02,2024-04-03,238751,Approved,Bangalore,Maharashtra,Home Loan,Online
+93,1565,2024-04-02,2024-04-06,2024-04-10,416326,Disbursed,Bangalore,Delhi,Home Loan,Direct
+94,1105,2024-04-03,2024-04-04,2024-04-07,212049,Approved,Delhi,Maharashtra,Auto Loan,Online
+95,1771,2024-04-04,2024-04-05,2024-04-06,144704,Disbursed,Chennai,Maharashtra,Home Loan,DSA
+96,1821,2024-04-05,2024-04-08,2024-04-09,99115,Approved,Chennai,Maharashtra,Personal Loan,Online
+97,1476,2024-04-06,2024-04-08,2024-04-12,403151,Pending,Delhi,Maharashtra,Auto Loan,DSA
+98,1702,2024-04-07,2024-04-09,2024-04-12,269295,Rejected,Delhi,Delhi,Auto Loan,Online
+99,1401,2024-04-08,2024-04-09,2024-04-10,241962,Approved,Delhi,Maharashtra,Auto Loan,Online
+100,1729,2024-04-09,2024-04-13,2024-04-17,247459,Disbursed,Delhi,Delhi,Auto Loan,Online
+101,1555,2024-04-10,2024-04-12,2024-04-15,199143,Pending,Delhi,Delhi,Personal Loan,Direct
+102,1161,2024-04-11,2024-04-15,2024-04-19,240347,Approved,Delhi,Karnataka,Auto Loan,Direct
+103,1201,2024-04-12,2024-04-14,2024-04-16,61938,Approved,Bangalore,Tamil Nadu,Auto Loan,DSA
+104,1957,2024-04-13,2024-04-17,2024-04-18,478411,Pending,Bangalore,Tamil Nadu,Home Loan,DSA
+105,1995,2024-04-14,2024-04-17,2024-04-19,403824,Approved,Bangalore,Delhi,Auto Loan,Direct
+106,1269,2024-04-15,2024-04-19,2024-04-22,54000,Rejected,Bangalore,Karnataka,Personal Loan,DSA
+107,1862,2024-04-16,2024-04-19,2024-04-21,251660,Approved,Delhi,Delhi,Personal Loan,Direct
+108,1815,2024-04-17,2024-04-20,2024-04-22,413186,Rejected,Chennai,Delhi,Personal Loan,Online
+109,1270,2024-04-18,2024-04-22,2024-04-25,405754,Rejected,Mumbai,Delhi,Personal Loan,DSA
+110,1455,2024-04-19,2024-04-22,2024-04-26,301492,Pending,Delhi,Karnataka,Auto Loan,DSA
+111,1461,2024-04-20,2024-04-21,2024-04-23,415835,Approved,Mumbai,Tamil Nadu,Auto Loan,Direct
+112,1726,2024-04-21,2024-04-24,2024-04-28,88304,Pending,Chennai,Karnataka,Personal Loan,DSA
+113,1251,2024-04-22,2024-04-24,2024-04-26,381593,Approved,Bangalore,Maharashtra,Personal Loan,DSA
+114,1701,2024-04-23,2024-04-27,2024-05-01,132986,Approved,Chennai,Karnataka,Auto Loan,Online
+115,1295,2024-04-24,2024-04-25,2024-04-28,201836,Disbursed,Delhi,Karnataka,Personal Loan,DSA
+116,1724,2024-04-25,2024-04-29,2024-05-01,158940,Approved,Bangalore,Karnataka,Home Loan,Online
+117,1719,2024-04-26,2024-04-28,2024-05-01,350638,Pending,Delhi,Karnataka,Personal Loan,Direct
+118,1748,2024-04-27,2024-04-29,2024-05-01,315517,Rejected,Bangalore,Tamil Nadu,Personal Loan,DSA
+119,1337,2024-04-28,2024-04-30,2024-05-03,193233,Approved,Mumbai,Maharashtra,Home Loan,Online
+120,1878,2024-04-29,2024-05-02,2024-05-05,147532,Disbursed,Mumbai,Tamil Nadu,Home Loan,Direct
+121,1052,2024-04-30,2024-05-03,2024-05-05,404802,Pending,Mumbai,Tamil Nadu,Auto Loan,DSA
+122,1791,2024-05-01,2024-05-05,2024-05-07,435777,Approved,Chennai,Karnataka,Auto Loan,Direct
+123,1921,2024-05-02,2024-05-06,2024-05-08,150386,Pending,Delhi,Delhi,Home Loan,DSA
+124,1216,2024-05-03,2024-05-04,2024-05-05,77350,Disbursed,Chennai,Delhi,Home Loan,Direct
+125,1763,2024-05-04,2024-05-05,2024-05-09,143008,Disbursed,Mumbai,Tamil Nadu,Auto Loan,Direct
+126,1187,2024-05-05,2024-05-09,2024-05-10,406441,Pending,Delhi,Tamil Nadu,Personal Loan,Online
+127,1379,2024-05-06,2024-05-09,2024-05-10,75351,Approved,Mumbai,Karnataka,Home Loan,Direct
+128,1492,2024-05-07,2024-05-09,2024-05-12,138668,Rejected,Chennai,Tamil Nadu,Auto Loan,DSA
+129,1040,2024-05-08,2024-05-12,2024-05-14,164585,Disbursed,Chennai,Karnataka,Personal Loan,DSA
+130,1156,2024-05-09,2024-05-10,2024-05-14,458521,Approved,Chennai,Delhi,Home Loan,Online
+131,1014,2024-05-10,2024-05-13,2024-05-16,387497,Approved,Mumbai,Delhi,Personal Loan,DSA
+132,1812,2024-05-11,2024-05-15,2024-05-16,257869,Rejected,Delhi,Maharashtra,Auto Loan,DSA
+133,1064,2024-05-12,2024-05-16,2024-05-18,115953,Disbursed,Delhi,Delhi,Home Loan,DSA
+134,1856,2024-05-13,2024-05-16,2024-05-19,369602,Disbursed,Mumbai,Tamil Nadu,Personal Loan,Direct
+135,1838,2024-05-14,2024-05-18,2024-05-20,332502,Approved,Delhi,Delhi,Home Loan,Direct
+136,1520,2024-05-15,2024-05-18,2024-05-21,53267,Approved,Mumbai,Karnataka,Personal Loan,DSA
+137,1343,2024-05-16,2024-05-18,2024-05-20,132745,Rejected,Delhi,Delhi,Auto Loan,Online
+138,1128,2024-05-17,2024-05-20,2024-05-21,401732,Rejected,Bangalore,Maharashtra,Auto Loan,Direct
+139,1647,2024-05-18,2024-05-21,2024-05-25,350657,Disbursed,Bangalore,Delhi,Home Loan,Online
+140,1471,2024-05-19,2024-05-22,2024-05-23,207164,Pending,Chennai,Karnataka,Personal Loan,DSA
+141,1062,2024-05-20,2024-05-24,2024-05-28,61338,Disbursed,Bangalore,Karnataka,Home Loan,DSA
+142,1138,2024-05-21,2024-05-25,2024-05-27,181484,Approved,Bangalore,Tamil Nadu,Home Loan,Direct
+143,1498,2024-05-22,2024-05-25,2024-05-28,57543,Disbursed,Bangalore,Delhi,Personal Loan,DSA
+144,1592,2024-05-23,2024-05-27,2024-05-28,418035,Pending,Mumbai,Karnataka,Personal Loan,Direct
+145,1391,2024-05-24,2024-05-25,2024-05-29,476712,Rejected,Bangalore,Maharashtra,Personal Loan,DSA
+146,1674,2024-05-25,2024-05-26,2024-05-27,110692,Pending,Bangalore,Tamil Nadu,Auto Loan,DSA
+147,1418,2024-05-26,2024-05-30,2024-06-03,270156,Pending,Chennai,Maharashtra,Home Loan,Direct
+148,1288,2024-05-27,2024-05-31,2024-06-01,273992,Pending,Bangalore,Delhi,Home Loan,Direct
+149,1378,2024-05-28,2024-05-31,2024-06-04,356569,Rejected,Bangalore,Delhi,Auto Loan,Direct
+150,1772,2024-05-29,2024-05-31,2024-06-04,88756,Pending,Delhi,Delhi,Personal Loan,DSA
+151,1489,2024-05-30,2024-06-03,2024-06-05,68888,Pending,Chennai,Tamil Nadu,Auto Loan,DSA
+152,1230,2024-05-31,2024-06-01,2024-06-05,216807,Pending,Chennai,Karnataka,Auto Loan,Online
+153,1040,2024-06-01,2024-06-04,2024-06-06,359439,Approved,Chennai,Tamil Nadu,Auto Loan,Direct
+154,1027,2024-06-02,2024-06-06,2024-06-10,164352,Pending,Chennai,Maharashtra,Home Loan,DSA
+155,1134,2024-06-03,2024-06-04,2024-06-07,395186,Rejected,Chennai,Tamil Nadu,Auto Loan,DSA
+156,1200,2024-06-04,2024-06-05,2024-06-08,135999,Pending,Chennai,Maharashtra,Home Loan,Direct
+157,1839,2024-06-05,2024-06-07,2024-06-10,67955,Pending,Mumbai,Tamil Nadu,Home Loan,Online
+158,1779,2024-06-06,2024-06-09,2024-06-13,349985,Rejected,Bangalore,Karnataka,Home Loan,Direct
+159,1929,2024-06-07,2024-06-10,2024-06-12,120640,Pending,Chennai,Maharashtra,Personal Loan,Online
+160,1032,2024-06-08,2024-06-10,2024-06-12,246582,Rejected,Bangalore,Delhi,Home Loan,DSA
+161,1047,2024-06-09,2024-06-11,2024-06-15,478127,Pending,Bangalore,Delhi,Home Loan,Online
+162,1502,2024-06-10,2024-06-13,2024-06-16,269798,Rejected,Mumbai,Tamil Nadu,Personal Loan,DSA
+163,1406,2024-06-11,2024-06-14,2024-06-17,450573,Pending,Chennai,Delhi,Home Loan,Direct
+164,1573,2024-06-12,2024-06-16,2024-06-18,475695,Pending,Delhi,Maharashtra,Auto Loan,Direct
+165,1727,2024-06-13,2024-06-17,2024-06-20,111476,Approved,Mumbai,Delhi,Auto Loan,Direct
+166,1804,2024-06-14,2024-06-16,2024-06-17,356955,Approved,Delhi,Karnataka,Home Loan,Online
+167,1098,2024-06-15,2024-06-19,2024-06-21,217280,Pending,Bangalore,Karnataka,Personal Loan,DSA
+168,1683,2024-06-16,2024-06-17,2024-06-20,201222,Pending,Bangalore,Tamil Nadu,Auto Loan,Direct
+169,1871,2024-06-17,2024-06-21,2024-06-23,121180,Disbursed,Mumbai,Maharashtra,Personal Loan,Direct
+170,1725,2024-06-18,2024-06-22,2024-06-23,224358,Rejected,Mumbai,Karnataka,Personal Loan,DSA
+171,1986,2024-06-19,2024-06-20,2024-06-22,162856,Disbursed,Delhi,Karnataka,Auto Loan,Direct
+172,1546,2024-06-20,2024-06-22,2024-06-24,380594,Approved,Chennai,Maharashtra,Personal Loan,DSA
+173,1960,2024-06-21,2024-06-22,2024-06-24,464568,Approved,Delhi,Delhi,Auto Loan,DSA
+174,1738,2024-06-22,2024-06-26,2024-06-28,236141,Approved,Mumbai,Delhi,Personal Loan,DSA
+175,1612,2024-06-23,2024-06-25,2024-06-26,424032,Approved,Delhi,Tamil Nadu,Auto Loan,DSA
+176,1942,2024-06-24,2024-06-28,2024-07-02,160448,Pending,Mumbai,Delhi,Home Loan,DSA
+177,1461,2024-06-25,2024-06-26,2024-06-28,64397,Approved,Delhi,Maharashtra,Auto Loan,Online
+178,1642,2024-06-26,2024-06-27,2024-06-29,484771,Pending,Mumbai,Karnataka,Auto Loan,Direct
+179,1768,2024-06-27,2024-07-01,2024-07-04,228031,Pending,Mumbai,Delhi,Auto Loan,Online
+180,1004,2024-06-28,2024-07-01,2024-07-03,443944,Approved,Mumbai,Tamil Nadu,Auto Loan,Direct
+181,1217,2024-06-29,2024-07-02,2024-07-05,493733,Approved,Chennai,Delhi,Personal Loan,Online
+182,1502,2024-06-30,2024-07-01,2024-07-05,169180,Rejected,Delhi,Maharashtra,Home Loan,DSA
+183,1766,2024-07-01,2024-07-02,2024-07-03,116234,Disbursed,Delhi,Tamil Nadu,Auto Loan,Direct
+184,1397,2024-07-02,2024-07-05,2024-07-06,89954,Approved,Delhi,Delhi,Personal Loan,Direct
+185,1870,2024-07-03,2024-07-06,2024-07-10,228352,Rejected,Mumbai,Tamil Nadu,Home Loan,Online
+186,1794,2024-07-04,2024-07-08,2024-07-09,129459,Rejected,Delhi,Maharashtra,Home Loan,Online
+187,1392,2024-07-05,2024-07-09,2024-07-13,459995,Disbursed,Delhi,Karnataka,Home Loan,Direct
+188,1206,2024-07-06,2024-07-09,2024-07-13,245004,Pending,Mumbai,Maharashtra,Home Loan,Online
+189,1014,2024-07-07,2024-07-11,2024-07-15,467682,Approved,Bangalore,Maharashtra,Auto Loan,Online
+190,1857,2024-07-08,2024-07-12,2024-07-13,480155,Disbursed,Mumbai,Maharashtra,Auto Loan,Online
+191,1553,2024-07-09,2024-07-11,2024-07-14,250968,Approved,Delhi,Maharashtra,Personal Loan,DSA
+192,1891,2024-07-10,2024-07-14,2024-07-18,478486,Rejected,Mumbai,Karnataka,Personal Loan,DSA
+193,1460,2024-07-11,2024-07-12,2024-07-14,109163,Rejected,Bangalore,Karnataka,Personal Loan,Online
+194,1690,2024-07-12,2024-07-16,2024-07-17,101934,Pending,Mumbai,Tamil Nadu,Home Loan,Online
+195,1574,2024-07-13,2024-07-17,2024-07-21,245967,Rejected,Delhi,Delhi,Home Loan,DSA
+196,1863,2024-07-14,2024-07-17,2024-07-21,475523,Rejected,Bangalore,Karnataka,Auto Loan,DSA
+197,1742,2024-07-15,2024-07-16,2024-07-18,366242,Disbursed,Chennai,Karnataka,Home Loan,Direct
+198,1240,2024-07-16,2024-07-20,2024-07-23,55486,Approved,Delhi,Delhi,Home Loan,Direct
+199,1563,2024-07-17,2024-07-21,2024-07-24,189407,Approved,Bangalore,Karnataka,Home Loan,DSA
+200,1095,2024-07-18,2024-07-20,2024-07-23,399044,Disbursed,Bangalore,Maharashtra,Personal Loan,Online

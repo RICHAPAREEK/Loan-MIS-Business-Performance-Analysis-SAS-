@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_generate_mis_macro",
+  "source_file": "TAT.sas",
+  "source_blob_sha": "972ce4223dbb8c73eb9fd9c7d8404bc8e1953ef0",
+  "source_commit": "8950948654b994eb12cb1d0385e6904ec72a4eff",
+  "notes": "Exercises the %generate_mis automation macro from TAT.sas verbatim: monthly MIS via PROC SQL, then a DATA step enriching it with month_name (put(mdy(),monname.)), avg_ticket, and lag()-based growth_pct, plus branch performance and two PROC EXPORT-to-xlsx steps. Same inline 40-row real-data setup + cleaning as t001. Only change from the repo: the two EXPORT outfile= paths (hardcoded SAS OnDemand home dir) now write relative mon.xlsx / branch.xlsx so the macro runs end to end. A trailing PROC PRINT surfaces the enriched table. Captured: Jan avg ticket 240425, Feb growth -41.4%; both xlsx files produced."
+}

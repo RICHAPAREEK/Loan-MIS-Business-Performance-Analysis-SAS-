@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_tat_mis",
+  "source_file": "TAT.sas",
+  "source_blob_sha": "972ce4223dbb8c73eb9fd9c7d8404bc8e1953ef0",
+  "source_commit": "8950948654b994eb12cb1d0385e6904ec72a4eff",
+  "notes": "Loan-MIS analysis from TAT.sas: cleaning + PROC SQL KPIs (total disbursement, count, SLA %, lead funnel, monthly/daily MIS, branch/product/channel performance) + PROC MEANS for average TAT. The repo read the data via PROC IMPORT of a hardcoded SAS OnDemand path; here 40 real rows from loan_mis_project_dataset.csv are read inline via DATALINES so the bundle is self-contained (code-only runner uploads no data files). All downstream analysis is verbatim from TAT.sas. Captured: avg TAT 5.25 days, SLA 52.5%."
+}

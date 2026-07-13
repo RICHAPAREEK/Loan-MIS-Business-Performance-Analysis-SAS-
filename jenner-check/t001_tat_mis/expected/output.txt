@@ -1,0 +1,10 @@
+                                                  The MEANS Procedure
+
+ Variable           Mean
+ -----------------------
+ tat           5.2500000
+ -----------------------
+
+sla_percentage
+--------------
+          52.5

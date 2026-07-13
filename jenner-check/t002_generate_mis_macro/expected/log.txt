@@ -1,0 +1,44 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA loan_data
+
+NOTE: Processing inline DATALINES (40 lines)
+
+NOTE: Read 40 rows from DATALINES.
+NOTE: Wrote loan_data (40 rows, 11 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA clean_data
+
+
+NOTE: Read 40 rows from loan_data.
+NOTE: Wrote clean_data (40 rows, 11 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table monthly_mis created.
+NOTE: PROC SQL statement used.
+NOTE: DATA monthly_mis_final
+
+
+NOTE: Read 2 rows from monthly_mis.
+NOTE: Wrote monthly_mis_final (2 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table branch_perf created.
+NOTE: PROC SQL statement used.
+NOTE: PROC EXPORT data=monthly_mis_final outfile=mon.xlsx
+
+NOTE: Exported 2 rows to mon.xlsx.
+NOTE: PROC EXPORT data=branch_perf outfile=branch.xlsx
+
+NOTE: Exported 4 rows to branch.xlsx.
+NOTE: PROC PRINT data=monthly_mis_final
+
+NOTE: PROC PRINT completed: 2 observations printed, 7 variables

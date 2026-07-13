@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-13T03:56:00Z",
+  "_captured_run_id": "r_eec87f8a2d1b4b02bc2cb675a5651ede",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote monthly_mis_final (2 rows, 8 columns).",
+    "NOTE: Exported 2 rows to mon.xlsx.",
+    "NOTE: Exported 4 rows to branch.xlsx.",
+    "NOTE: PROC PRINT completed: 2 observations printed, 7 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
